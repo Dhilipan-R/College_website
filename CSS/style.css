@@ -5,6 +5,7 @@
  .navbar{
  text-transform  : uppercase;
  color           : white;
+     padding:15px;
     }
 .icon-bar{
     background: rgb(247, 246, 246);
