@@ -5,13 +5,14 @@
  .navbar{
  text-transform  : uppercase;
  color           : white;
-     padding:15px;
     }
 .icon-bar{
     background: rgb(247, 246, 246);
 }
 li {
     padding: 0px 5px ;
+     padding-left: 30px;
+    padding-right: 30px;
 }
 .container a{
     display        : inline-flex;
